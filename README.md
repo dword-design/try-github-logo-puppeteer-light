@@ -6,4 +6,4 @@ Minimal example of GitPod manipulating an external image.
 
 Run `yarn start` to download the file from inside GitPod via `wget`.
 
-Now you have git changes although it should be the same file.
+Now you have Git changes although it should be the same file.
