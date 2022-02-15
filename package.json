@@ -1,0 +1,11 @@
+{
+  "name": "try-github-logo-puppeteer-light",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dword-design/try-github-logo-puppeteer-light.git",
+  "author": "dword <info@sebastianlandwehr.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "wget https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=32%2C32 -O file.png"
+  }
+}
