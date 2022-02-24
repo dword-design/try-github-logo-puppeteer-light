@@ -1,4 +1,4 @@
-# try-github-logo-puppeteer-light
+# try-gitpod-git-lfs
 
 Minimal example of GitPod manipulating an external image.
 
